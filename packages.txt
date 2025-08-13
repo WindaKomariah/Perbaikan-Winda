@@ -1,0 +1,3 @@
+# packages.txt
+fonts-dejavu-core
+freeglut3-dev
