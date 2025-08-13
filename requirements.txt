@@ -1,5 +1,4 @@
-# File: requirements.txt
-
+# Versi stabil 30 Juli 2025
 streamlit==1.36.0
 pandas==2.2.2
 numpy==1.26.4
